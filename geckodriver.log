@@ -1,0 +1,693 @@
+1670677439112	geckodriver	INFO	Listening on 127.0.0.1:62702
+1670677439740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62703" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilexNoj64"
+1670677446065	Marionette	INFO	Marionette enabled
+1670677447080	Marionette	INFO	Listening on port 62757
+Read port: 62757
+WebDriver BiDi listening on ws://127.0.0.1:62703
+1670677447789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilexNoj64/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 761))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+DevTools listening on ws://127.0.0.1:62703/devtools/browser/6b0365a4-b2e7-402c-b7db-1feb10a6a50c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 7295 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 1724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 6626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670677610657	geckodriver	INFO	Listening on 127.0.0.1:63496
+1670677611082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63497" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGDIJEa"
+1670677617606	Marionette	INFO	Marionette enabled
+1670677617635	Marionette	INFO	Listening on port 63561
+Read port: 63561
+WebDriver BiDi listening on ws://127.0.0.1:63497
+1670677619237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGDIJEa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63497/devtools/browser/d2b71a17-0af8-4d52-a677-5af5180f8744
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 7323 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 2497 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 4416 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 7677 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670677774720	Marionette	INFO	Stopped listening on port 63561
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670677780552	Marionette	INFO	Stopped listening on port 62757
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1670677942610	geckodriver	INFO	Listening on 127.0.0.1:65030
+1670677943058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65031" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileV9cu1l"
+1670677946223	Marionette	INFO	Marionette enabled
+1670677946301	Marionette	INFO	Listening on port 65068
+Read port: 65068
+WebDriver BiDi listening on ws://127.0.0.1:65031
+1670677946862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileV9cu1l/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65031/devtools/browser/e7bc54e2-63ab-4745-8a17-a5ca394af1ec
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 1899 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 5130 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 6620 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:363:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+1670678066306	geckodriver	INFO	Listening on 127.0.0.1:49251
+1670678066439	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49252" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile91MmRP"
+1670678067547	Marionette	INFO	Marionette enabled
+1670678067612	Marionette	INFO	Listening on port 49267
+Read port: 49267
+WebDriver BiDi listening on ws://127.0.0.1:49252
+1670678068424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile91MmRP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49252/devtools/browser/93f1c4f3-3e4a-46c7-83c2-c93538b2d99e
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 4590 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 1684 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 2467 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 3417 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 6150 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670678320692	geckodriver	INFO	Listening on 127.0.0.1:50411
+1670678320983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50412" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileZ6efJ8"
+1670678334291	Marionette	INFO	Marionette enabled
+1670678334437	Marionette	INFO	Listening on port 50495
+Read port: 50495
+Read port: 50495
+Read port: 50495
+WebDriver BiDi listening on ws://127.0.0.1:50412
+1670678337885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967333/layout49, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967335/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967339/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967353/layout30, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967355/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967357/layout24, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967360/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967362/layout24, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967340/layout35, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967342/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967347/layout28, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967364/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967346/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967349/layout24, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967369/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1666:21\nCanCloseWindow@chrome://browser/content/browser.js:8044:36\nWindowIsClosing@chrome://browser/content/browser.js:8073:7\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:363:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileZ6efJ8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50412/devtools/browser/d49fafee-3641-451f-9a39-e44ae81dd548
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 3285 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+[Parent 33780, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 33780, IPC I/O Parent] WARNING: Failed to launch rdd subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 1638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 4699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Managed to allocate after flush.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967305"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967336/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967336/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967336/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+
+JavaScript warning: https://cookieclickercity.com/scripts/c3runtime.js, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GC5M5N_VN3lVd7ErmxmldCKoshgV9d2S74rLP9hyoZw.js line 2 > eval line 3938 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670678908682	geckodriver	INFO	Listening on 127.0.0.1:53085
+1670678908918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53086" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileftBE0B"
+1670678914597	Marionette	INFO	Marionette enabled
+1670678914628	Marionette	INFO	Listening on port 53133
+Read port: 53133
+WebDriver BiDi listening on ws://127.0.0.1:53086
+1670678915269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileftBE0B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53086/devtools/browser/aa3fc070-51f3-4b82-9cbe-190330214c07
+1670679324420	geckodriver	INFO	Listening on 127.0.0.1:54809
+1670679324731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54810" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileNxUle6"
+1670679339515	Marionette	INFO	Marionette enabled
+1670679339641	Marionette	INFO	Listening on port 54905
+Read port: 54905
+WebDriver BiDi listening on ws://127.0.0.1:54810
+1670679340375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileNxUle6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54810/devtools/browser/13947a3f-d3e8-429e-81ba-7bf98bd1dd5a
+1670687520184	geckodriver	INFO	Listening on 127.0.0.1:59559
+1670687520624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59560" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGXOwiQ"
+1670687529729	Marionette	INFO	Marionette enabled
+1670687529841	Marionette	INFO	Listening on port 59624
+Read port: 59624
+WebDriver BiDi listening on ws://127.0.0.1:59560
+1670687531087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGXOwiQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59560/devtools/browser/0522d9c4-ba54-44a8-8138-4f603901b47d
+1670688018844	geckodriver	INFO	Listening on 127.0.0.1:61524
+1670688019384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61525" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileYKjEBB"
+1670688039287	Marionette	INFO	Marionette enabled
+1670688041027	Marionette	INFO	Listening on port 61650
+Read port: 
+1670688041727	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 61650
+WebDriver BiDi listening on ws://127.0.0.1:61525
+1670688044649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1670688060823	Marionette	INFO	Stopped listening on port 49267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileYKjEBB/search.json.mozlz4", (void 0)))
+1670688068851	Marionette	INFO	Stopped listening on port 50495
+!!! error running onStopped callback: TypeError: callback is not a function
+1670688095600	Marionette	INFO	Stopped listening on port 53133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670688098720	Marionette	INFO	Stopped listening on port 54905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670688103812	Marionette	INFO	Stopped listening on port 59624
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670688108161	Marionette	INFO	Stopped listening on port 61650
+1670688108179	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670688108383	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+[2022-12-10T16:01:48Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1670688168729	geckodriver	INFO	Listening on 127.0.0.1:62154
+1670688169039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62155" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileqDqRWT"
+1670688183719	Marionette	INFO	Marionette enabled
+1670688183881	Marionette	INFO	Listening on port 62232
+Read port: 62232
+WebDriver BiDi listening on ws://127.0.0.1:62155
+1670688184601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileqDqRWT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62155/devtools/browser/5a50e3b2-cbc2-422f-90ec-f18fe7219430
+1670688308121	geckodriver	INFO	Listening on 127.0.0.1:62767
+1670688308350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62768" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilesInBoZ"
+1670688309576	Marionette	INFO	Marionette enabled
+1670688309643	Marionette	INFO	Listening on port 62782
+Read port: 62782
+WebDriver BiDi listening on ws://127.0.0.1:62768
+1670688310525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilesInBoZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62768/devtools/browser/e432280c-a580-4857-9f7e-7df620aca282
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670692486356	Marionette	INFO	Stopped listening on port 62232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670692491556	Marionette	INFO	Stopped listening on port 65068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670692500547	Marionette	INFO	Stopped listening on port 62782
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670693579548	geckodriver	INFO	Listening on 127.0.0.1:49693
+1670693579590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49694" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileylztFo"
+1670693585620	Marionette	INFO	Marionette enabled
+1670693585652	Marionette	INFO	Listening on port 49701
+Read port: 49701
+WebDriver BiDi listening on ws://127.0.0.1:49694
+1670693586377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileylztFo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49694/devtools/browser/bdde1336-22cc-4bb3-9fbe-f9b8c694bedd
+1670693617617	geckodriver	INFO	Listening on 127.0.0.1:49740
+1670693617695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49741" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileR16RAh"
+1670693619051	Marionette	INFO	Marionette enabled
+1670693619168	Marionette	INFO	Listening on port 49748
+Read port: 49748
+WebDriver BiDi listening on ws://127.0.0.1:49741
+1670693619745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileR16RAh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49741/devtools/browser/7fedb33c-7afa-41eb-80c8-a1d1df9c012a
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670694755816	geckodriver	INFO	Listening on 127.0.0.1:49864
+1670694755833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49865" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileHWD4Gz"
+1670694756796	Marionette	INFO	Marionette enabled
+1670694756883	Marionette	INFO	Listening on port 49872
+Read port: 49872
+WebDriver BiDi listening on ws://127.0.0.1:49865
+1670694757975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileHWD4Gz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49865/devtools/browser/995040c3-257d-46d5-92f0-81907acb1b1c
+1670694792030	geckodriver	INFO	Listening on 127.0.0.1:49911
+1670694792047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49912" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilexwJxNm"
+1670694793699	Marionette	INFO	Marionette enabled
+1670694793743	Marionette	INFO	Listening on port 49919
+Read port: 49919
+WebDriver BiDi listening on ws://127.0.0.1:49912
+1670694794577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilexwJxNm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49912/devtools/browser/85c8ee4d-dffb-4802-bb83-e6e47ea77c0b
+1670695841064	geckodriver	INFO	Listening on 127.0.0.1:50017
+1670695841206	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50018" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilez7xI0x"
+1670695852497	Marionette	INFO	Marionette enabled
+1670695853117	Marionette	INFO	Listening on port 50025
+Read port: 50025
+WebDriver BiDi listening on ws://127.0.0.1:50018
+1670695854127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilez7xI0x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50018/devtools/browser/eedba7cc-acb6-4cbd-8b91-f74c9ccaeff7
+1670696764597	geckodriver	INFO	Listening on 127.0.0.1:50101
+1670696765212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50102" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileJSzFBz"
+1670696777396	Marionette	INFO	Marionette enabled
+1670696777688	Marionette	INFO	Listening on port 50112
+Read port: 50112
+WebDriver BiDi listening on ws://127.0.0.1:50102
+1670696778040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileJSzFBz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50102/devtools/browser/94c173ab-9a4b-446a-a54f-7cf4e2f7cb50
+1670696866142	geckodriver	INFO	Listening on 127.0.0.1:50168
+1670696866352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50169" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGZWhmo"
+1670696878747	Marionette	INFO	Marionette enabled
+1670696878967	Marionette	INFO	Listening on port 50176
+Read port: 50176
+Read port: 50176
+WebDriver BiDi listening on ws://127.0.0.1:50169
+Read port: 50176
+1670696882236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGZWhmo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50169/devtools/browser/48aceea6-958a-4543-b9d1-59f2d6e5e678
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670697113039	Marionette	INFO	Stopped listening on port 50176
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670697116774	Marionette	INFO	Stopped listening on port 50112
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670697120012	Marionette	INFO	Stopped listening on port 49919
+!!! error running onStopped callback: TypeError: callback is not a function
+1670745933243	Marionette	INFO	Stopped listening on port 50025
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670745940487	Marionette	INFO	Stopped listening on port 49872
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670745944933	Marionette	INFO	Stopped listening on port 49748
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+!!! error running onStopped callback: TypeError: callback is not a function
+1670745954765	Marionette	INFO	Stopped listening on port 49701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670758343451	geckodriver	INFO	Listening on 127.0.0.1:49382
+1670758343728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49383" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileopvcB0"
+1670758358418	Marionette	INFO	Marionette enabled
+1670758358617	Marionette	INFO	Listening on port 49398
+Read port: 49398
+Read port: 49398
+Read port: 49398
+WebDriver BiDi listening on ws://127.0.0.1:49383
+1670758361202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileopvcB0/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 761))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+DevTools listening on ws://127.0.0.1:49383/devtools/browser/2f24c32a-0520-4ee1-88ca-3c795058cadf
+1670758744168	geckodriver	INFO	Listening on 127.0.0.1:49487
+1670758744960	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49488" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile55eiuW"
+1670758747647	Marionette	INFO	Marionette enabled
+1670758747678	Marionette	INFO	Listening on port 49495
+Read port: 49495
+Read port: 49495
+WebDriver BiDi listening on ws://127.0.0.1:49488
+1670758749602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile55eiuW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49488/devtools/browser/8f34c0c7-8042-4d3a-bd52-8a69ce740af0
+[Parent 1263, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1263, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+1670759030483	geckodriver	INFO	Listening on 127.0.0.1:49570
+1670759030933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49571" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileQGm1Ns"
+1670759068050	Marionette	INFO	Marionette enabled
+1670759098415	Marionette	INFO	Listening on port 49585
+WebDriver BiDi listening on ws://127.0.0.1:49571
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+1670759144816	Marionette	INFO	Stopped listening on port 49495
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+1670759155685	Marionette	INFO	Stopped listening on port 49398
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1670759200668	geckodriver	INFO	Listening on 127.0.0.1:49606
+1670759201506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49607" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileVM6mUW"
+1670759205802	Marionette	INFO	Marionette enabled
+1670759205870	Marionette	INFO	Listening on port 49610
+Read port: 49610
+WebDriver BiDi listening on ws://127.0.0.1:49607
+1670759207888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileVM6mUW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49607/devtools/browser/bf51be2f-47c2-4145-a76b-3ed99da5c3a1
+1670759309633	geckodriver	INFO	Listening on 127.0.0.1:49662
+1670759310155	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49663" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilerQAg6a"
+1670759311320	Marionette	INFO	Marionette enabled
+1670759311422	Marionette	INFO	Listening on port 49669
+Read port: 49669
+WebDriver BiDi listening on ws://127.0.0.1:49663
+Read port: 49669
+1670759313308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilerQAg6a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49663/devtools/browser/372c0658-e4a8-4835-ae2e-1ec8627c413a
+1670759491260	geckodriver	INFO	Listening on 127.0.0.1:49732
+1670759491789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49733" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileApXD5D"
+[Parent 1503, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1503, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+[Parent 1503, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1503, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+1670759540483	Marionette	INFO	Marionette enabled
+[Parent 1503, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1503, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+[Parent 1503, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1503, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670759587303	Marionette	INFO	Listening on port 49739
+1670759588119	Marionette	INFO	Stopped listening on port 49610
+WebDriver BiDi listening on ws://127.0.0.1:49733
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670759603090	Marionette	INFO	Stopped listening on port 49669
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 761))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileApXD5D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49733/devtools/browser/ebedbeee-83bf-41da-892d-5b3c6952a155
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670759644452	geckodriver	INFO	Listening on 127.0.0.1:49764
+1670759645192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49765" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileT298hl"
+1670759647156	Marionette	INFO	Marionette enabled
+1670759648407	Marionette	INFO	Listening on port 49770
+WebDriver BiDi listening on ws://127.0.0.1:49765
+Read port: 49770
+Read port: 49770
+1670759654073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileT298hl/search.json.mozlz4", (void 0)))
+[Parent 1557, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1557, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+DevTools listening on ws://127.0.0.1:49765/devtools/browser/4f245de9-697c-4477-b202-bad91c8ba7e9
+1670759755055	geckodriver	INFO	Listening on 127.0.0.1:49803
+1670759755492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49804" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileAO0hqk"
+1670759761529	Marionette	INFO	Marionette enabled
+1670759761561	Marionette	INFO	Listening on port 49812
+Read port: 49812
+WebDriver BiDi listening on ws://127.0.0.1:49804
+1670759762257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileAO0hqk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49804/devtools/browser/5989117f-5e36-4e94-b508-70a8ba018ef1
+1670759841907	geckodriver	INFO	Listening on 127.0.0.1:49844
+1670759842510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49845" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileC2xesD"
+1670759880764	Marionette	INFO	Marionette enabled
+1670759893211	Marionette	INFO	Listening on port 49856
+Read port: 49856
+Read port: 49856
+Read port: 49856
+Read port: 49856
+Read port: 49856
+WebDriver BiDi listening on ws://127.0.0.1:49845
+1670759899634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 1731, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1731, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+[Parent 1731, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1731, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+[Parent 1731, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1731, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+[Parent 1731, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1731, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+1670760030547	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1670760378266	geckodriver	INFO	Listening on 127.0.0.1:49902
+1670760378990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49903" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilemvucmy"
+[Parent 1844, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1844, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+[Parent 1844, IPC Launch #1] WARNING: parent MachReceivePortSendRight failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1314
+[Parent 1844, IPC I/O Parent] WARNING: Failed to launch socket subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:765
+1670760464462	Marionette	INFO	Marionette enabled
+1670760477240	Marionette	INFO	Listening on port 49910
+WebDriver BiDi listening on ws://127.0.0.1:49903
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+console.warn: "Inspector destroyed while executing onReflow callback"
+1670760629012	Marionette	INFO	Stopped listening on port 49812
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670760703820	geckodriver	INFO	Listening on 127.0.0.1:49940
+1670760704341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49941" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileXVW2s7"
+1670760709160	Marionette	INFO	Marionette enabled
+1670760709338	Marionette	INFO	Listening on port 49947
+Read port: 49947
+WebDriver BiDi listening on ws://127.0.0.1:49941
+1670760710136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileXVW2s7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49941/devtools/browser/0f1491e7-769c-499f-975a-ae269f74dfeb
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670760776024	Marionette	INFO	Stopped listening on port 49947
+!!! error running onStopped callback: TypeError: callback is not a function
+1670760785910	geckodriver	INFO	Listening on 127.0.0.1:49986
+1670760785985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49987" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGyRCXm"
+1670760787185	Marionette	INFO	Marionette enabled
+1670760787367	Marionette	INFO	Listening on port 49992
+Read port: 49992
+WebDriver BiDi listening on ws://127.0.0.1:49987
+1670760788000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileGyRCXm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49987/devtools/browser/c0579936-dd86-49b9-af30-d8daab1bcb6c
+CoreSVG has logged an error. Set environment variabe "CORESVG_VERBOSE" to learn more.
+1670760909621	Marionette	INFO	Stopped listening on port 49992
+!!! error running onStopped callback: TypeError: callback is not a function
+1670760916428	geckodriver	INFO	Listening on 127.0.0.1:50040
+1670760916816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50041" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile5AAtS9"
+1670760917950	Marionette	INFO	Marionette enabled
+1670760917996	Marionette	INFO	Listening on port 50046
+Read port: 50046
+WebDriver BiDi listening on ws://127.0.0.1:50041
+1670760918724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile5AAtS9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50041/devtools/browser/a3ee09ed-0a64-484a-9270-d13ec77b067c
+1670761081121	Marionette	INFO	Stopped listening on port 50046
+1670761087101	geckodriver	INFO	Listening on 127.0.0.1:50093
+1670761087422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50094" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilemTlOWp"
+1670761088527	Marionette	INFO	Marionette enabled
+1670761088566	Marionette	INFO	Listening on port 50099
+Read port: 50099
+WebDriver BiDi listening on ws://127.0.0.1:50094
+1670761089336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilemTlOWp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50094/devtools/browser/f13829e5-99bd-4c6e-8b4f-059118a048dc
+1670761281130	Marionette	INFO	Stopped listening on port 50099
+1670761286496	geckodriver	INFO	Listening on 127.0.0.1:50257
+1670761286520	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50258" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileN9kiJd"
+1670761287806	Marionette	INFO	Marionette enabled
+1670761287926	Marionette	INFO	Listening on port 50263
+Read port: 50263
+WebDriver BiDi listening on ws://127.0.0.1:50258
+1670761288959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileN9kiJd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50258/devtools/browser/fcf6eafc-0aeb-4eb8-bd90-f7b923435c5a
+1670761411857	Marionette	INFO	Stopped listening on port 50263
+1670761423493	geckodriver	INFO	Listening on 127.0.0.1:50307
+1670761423526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50308" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileFWoaso"
+1670761424337	Marionette	INFO	Marionette enabled
+1670761424619	Marionette	INFO	Listening on port 50313
+Read port: 50313
+WebDriver BiDi listening on ws://127.0.0.1:50308
+1670761425688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileFWoaso/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50308/devtools/browser/2ccf6e00-162b-419e-aac2-74a76c724ce0
+1670761547107	Marionette	INFO	Stopped listening on port 50313
+1670761552268	geckodriver	INFO	Listening on 127.0.0.1:50361
+1670761552786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50362" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilefwm69O"
+1670761553586	Marionette	INFO	Marionette enabled
+1670761553710	Marionette	INFO	Listening on port 50369
+Read port: 50369
+WebDriver BiDi listening on ws://127.0.0.1:50362
+1670761554706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilefwm69O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50362/devtools/browser/ecadf7e2-1656-4023-b5d2-e7f822d312f5
+1670761821623	Marionette	INFO	Stopped listening on port 50369
+1670761828760	geckodriver	INFO	Listening on 127.0.0.1:50417
+1670761828779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50418" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileiy6u46"
+1670761829973	Marionette	INFO	Marionette enabled
+1670761830510	Marionette	INFO	Listening on port 50423
+Read port: 50423
+WebDriver BiDi listening on ws://127.0.0.1:50418
+1670761830673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileiy6u46/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50418/devtools/browser/d7dabcdd-83bd-4ee3-9dbe-22be29da3319
+1670761953341	Marionette	INFO	Stopped listening on port 50423
+1670762447049	geckodriver	INFO	Listening on 127.0.0.1:50480
+1670762447107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50481" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile5mW3aj"
+1670762448256	Marionette	INFO	Marionette enabled
+1670762448331	Marionette	INFO	Listening on port 50486
+Read port: 50486
+WebDriver BiDi listening on ws://127.0.0.1:50481
+1670762449130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile5mW3aj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50481/devtools/browser/a751d29d-faa7-4d72-8440-58e7687d672d
+1670762984806	Marionette	INFO	Stopped listening on port 50486
+1670762992341	geckodriver	INFO	Listening on 127.0.0.1:50557
+1670762992357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50558" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileLM5OtQ"
+1670762993289	Marionette	INFO	Marionette enabled
+1670762993853	Marionette	INFO	Listening on port 50563
+Read port: 50563
+WebDriver BiDi listening on ws://127.0.0.1:50558
+1670762994031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileLM5OtQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50558/devtools/browser/91845842-6503-401a-9528-f64cebcbf87e
+1670763139857	Marionette	INFO	Stopped listening on port 50563
+1670763151478	geckodriver	INFO	Listening on 127.0.0.1:50605
+1670763151492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50606" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile1mUDS8"
+1670763152281	Marionette	INFO	Marionette enabled
+1670763152394	Marionette	INFO	Listening on port 50611
+Read port: 50611
+WebDriver BiDi listening on ws://127.0.0.1:50606
+1670763153446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile1mUDS8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50606/devtools/browser/2631847e-d007-4a56-9b99-e42b6db0fa4b
+1670763460770	Marionette	INFO	Stopped listening on port 50611
+1670763462188	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1670763468524	geckodriver	INFO	Listening on 127.0.0.1:50670
+1670763468575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50671" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilejxTMnc"
+1670763469326	Marionette	INFO	Marionette enabled
+1670763469412	Marionette	INFO	Listening on port 50676
+Read port: 50676
+WebDriver BiDi listening on ws://127.0.0.1:50671
+Read port: 50676
+1670763470741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofilejxTMnc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50671/devtools/browser/b364bf22-1b9d-4f54-94bb-3a6444ae6380
+1670763508639	Marionette	INFO	Stopped listening on port 50676
+1670763530725	geckodriver	INFO	Listening on 127.0.0.1:50718
+1670763530845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50719" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile2O46jU"
+1670763531867	Marionette	INFO	Marionette enabled
+1670763531950	Marionette	INFO	Listening on port 50724
+Read port: 50724
+WebDriver BiDi listening on ws://127.0.0.1:50719
+1670763532909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofile2O46jU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50719/devtools/browser/1dc22189-de9f-4974-97c5-79dfdd97e370
+1670763592874	Marionette	INFO	Stopped listening on port 50724
+1670763601255	geckodriver	INFO	Listening on 127.0.0.1:50761
+1670763601777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50762" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileLgaUMd"
+1670763602875	Marionette	INFO	Marionette enabled
+1670763602930	Marionette	INFO	Listening on port 50769
+Read port: 50769
+WebDriver BiDi listening on ws://127.0.0.1:50762
+1670763603946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fh/st1r66r5197gq_w4kktyb2rw0000gn/T/rust_mozprofileLgaUMd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50762/devtools/browser/32d8be2a-354e-4fb1-83cd-8d1f8ce4757a
+1670763650093	Marionette	INFO	Stopped listening on port 50769
